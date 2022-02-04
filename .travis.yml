@@ -18,4 +18,4 @@ script:
   - "p4 branches" 
   - "p4 -V" 
   - "p4 -h"
-  - echo "You're now using Perforce on Travis CI!"
+  - echo "You're now using Perforce Helix-Core on Travis CI!"
